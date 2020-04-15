@@ -1,1 +1,6 @@
-Second attempt at creating first blog post for Github pages with Jekyll.
+---
+title: "First Blog Post"
+date: 2020-04-14
+---
+
+First blog post for Github pages with Jekyll.
